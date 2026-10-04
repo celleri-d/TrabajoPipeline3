@@ -1,0 +1,6 @@
+# Requiere Python 3.11 (PyCaret 3.3.x no soporta versiones posteriores)
+pycaret==3.3.2
+kagglehub
+matplotlib
+ipykernel
+ipywidgets
