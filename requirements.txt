@@ -4,3 +4,7 @@ kagglehub
 matplotlib
 ipykernel
 ipywidgets
+# Dependencias notebook baseline_sklearn.ipynb
+scikit-learn
+pandas
+seaborn
